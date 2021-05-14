@@ -1,7 +1,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/Alisson-tech/scraping_web_cotacao_moedas)
 
 # scraping_web_cotacao_moedas
-O aplicativo foi desenvolvido na segunda aula da semana python, do canal "Hashtag Programação".
+O aplicativo foi desenvolvido na quarta aula da semana python, do canal "Hashtag Programação".
 
 ## Situação
 
