@@ -11,12 +11,12 @@ Nosso aplicativo será reponsável por essa tarefa.
 ## Como Funciona
 
 Utilizando a biblioteca Selenium, foi possivel automatizar buscas no navegador.
-Para isso pegamos o código xpath dos elementos da páfina para realizar as ações.
-é possivel utilizar outros meios além do xpath para realizar ação em determinado elemento da página.
+Para isso pegamos o código xpath dos elementos da página para realizar as ações.
+é possível utilizar outros meios além do xpath para realizar ação em determinado elemento da página.
 
 ## Vantagens
 
-roda no navegador, o que permite o usuário continuar utilizando no computador para outras tarefas, diferentes de automação feitas com Pyautogui.
+a automação roda apenas no navegador, o que permite o usuário continuar utilizando o computador para outras tarefas, diferentes de automações feitas com Pyautogui.
 
 ## Desvantagens
 
